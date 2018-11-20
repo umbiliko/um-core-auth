@@ -1,2 +1,2 @@
-# um-pass
-Umbiliko auth
+# um-core-auth
+User module authentication implementation
